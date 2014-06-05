@@ -328,16 +328,20 @@ hr {
     box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0), inset 0 0 0 1px rgba(255, 255, 255, 0); }
   .tile.tile-8 .tile-inner {
   
-    background-image:url("../img/3.JPG"); }
+    background-image:url("../img/3.JPG");
+    box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0), inset 0 0 0 1px rgba(255, 255, 255, 0);}
   .tile.tile-16 .tile-inner {
     color: #f9f6f2;
-    background-image:url("../img/4.JPG");}
+    background-image:url("../img/4.JPG");
+    box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0), inset 0 0 0 1px rgba(255, 255, 255, 0);}
   .tile.tile-32 .tile-inner {
     color: #f9f6f2;
-    background-image:url("../img/5.jpg"); }
+    background-image:url("../img/5.JPG");
+    box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0), inset 0 0 0 1px rgba(255, 255, 255, 0);}
   .tile.tile-64 .tile-inner {
     color: #f9f6f2;
-    background-image:url("../img/6.jpg"); }
+    background-image:url("../img/6.JPG");
+    box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0), inset 0 0 0 1px rgba(255, 255, 255, 0);}
   .tile.tile-128 .tile-inner {
     color: #f9f6f2;
     background-image:url("../img/7.jpg");
