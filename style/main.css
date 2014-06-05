@@ -327,7 +327,7 @@ hr {
     background-image:url("../img/2.jpg");
     box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0), inset 0 0 0 1px rgba(255, 255, 255, 0); }
   .tile.tile-8 .tile-inner {
-    color: #f9f6f2;
+  
     background-image:url("../img/3.jpg"); }
   .tile.tile-16 .tile-inner {
     color: #f9f6f2;
